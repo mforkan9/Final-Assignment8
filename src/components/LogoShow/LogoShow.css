@@ -1,0 +1,11 @@
+.logo{
+    background-image: url(./soccer-ball-ss-img.jpg);
+    height: 50vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position: relative;
+}

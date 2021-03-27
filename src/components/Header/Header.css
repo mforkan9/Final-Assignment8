@@ -1,0 +1,11 @@
+.app-header{
+    background-image: url(./Football-Ground-Wallpapers-1.jpg);
+    height: 40vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position: relative;
+  }
